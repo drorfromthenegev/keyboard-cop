@@ -1,4 +1,5 @@
 # keyboard-cop
+Contributed By Check Point Software Technologies LTD
 This is a POC for a generic protection against "Keystroke Injection" attacks.
 The program listens to the keystrokes and checks if the typing is too monotonic or to fast for a human, and then locks the computer.
 The values are a results of trial and error only; to make it more reliable, we need to analyze a big dataset of human typing.
