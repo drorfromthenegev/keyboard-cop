@@ -1,0 +1,14 @@
+c:\users\drorr\documents\visual studio 2015\Projects\KeyboardCop\KeyboardCop\bin\Debug\KeyboardCop.exe.config
+c:\users\drorr\documents\visual studio 2015\Projects\KeyboardCop\KeyboardCop\bin\Debug\KeyboardCop.exe
+c:\users\drorr\documents\visual studio 2015\Projects\KeyboardCop\KeyboardCop\bin\Debug\KeyboardCop.pdb
+c:\users\drorr\documents\visual studio 2015\Projects\KeyboardCop\KeyboardCop\obj\Debug\KeyboardCop.csprojResolveAssemblyReference.cache
+c:\users\drorr\documents\visual studio 2015\Projects\KeyboardCop\KeyboardCop\obj\Debug\KeyboardCop.Properties.Resources.resources
+c:\users\drorr\documents\visual studio 2015\Projects\KeyboardCop\KeyboardCop\obj\Debug\KeyboardCop.csproj.GenerateResource.Cache
+c:\users\drorr\documents\visual studio 2015\Projects\KeyboardCop\KeyboardCop\obj\Debug\KeyboardCop.exe
+c:\users\drorr\documents\visual studio 2015\Projects\KeyboardCop\KeyboardCop\obj\Debug\KeyboardCop.pdb
+c:\users\drorr\documents\visual studio 2015\Projects\KeyboardCop\KeyboardCop\bin\Debug\Gma.System.MouseKeyHook.dll
+C:\Users\drorr\Documents\Visual Studio 2015\Projects\KeyboardCop\KeyboardCop\bin\Debug\KeyboardCop.exe.manifest
+C:\Users\drorr\Documents\Visual Studio 2015\Projects\KeyboardCop\KeyboardCop\bin\Debug\KeyboardCop.application
+C:\Users\drorr\Documents\Visual Studio 2015\Projects\KeyboardCop\KeyboardCop\obj\Debug\KeyboardCop.exe.manifest
+C:\Users\drorr\Documents\Visual Studio 2015\Projects\KeyboardCop\KeyboardCop\obj\Debug\KeyboardCop.application
+C:\Users\drorr\Documents\Visual Studio 2015\Projects\KeyboardCop\KeyboardCop\obj\Debug\KeyboardCop.MainScreen.resources
