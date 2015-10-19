@@ -3,7 +3,7 @@ Contributed By Check Point Software Technologies LTD
 
 
 This is a POC for a generic protection against "Keystroke Injection" attacks.
-The program listens to the keystrokes and checks if the typing is too monotonic or to fast for a human, and then locks the computer.
+The program listens to the keystrokes and tries to find out (by using heuristics) if the source of the keystrokes is a human or a bot, and if it is a bot-it locks the computer.
 
 We use very simple heuristics, and in the future we could add more sophisticated heuristics.
 
